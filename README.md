@@ -1,7 +1,8 @@
 ### Hello 👋
 
 Hi I am an electrical and electronics engineer. I develop projects in the field of microcontrollers, FPGA, IOT, etc. Most of my projects are accoupled by its own blog.
-![daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniboi16&show_icons=true&theme=radical)
+
+![daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniboi16&show_icons=true&theme=onedark&hide=prs,issues)
 
 
 ## Highlights 
@@ -16,6 +17,8 @@ Hi I am an electrical and electronics engineer. I develop projects in the field 
 * **Embedded C**: I am written many register Level codes for my STM 32 in embedded C
 * **Verilog**: I implement all my FPGA projects using Verilog.
 * **Java**: I have learned Java as part of my curriculum and received the highest grade in university.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniboi16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 * Blog:: https://danielalapat.hashnode.dev/
