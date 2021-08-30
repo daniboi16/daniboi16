@@ -1,6 +1,8 @@
 ### Hello 👋
 
 Hi I am an electrical and electronics engineer. I develop projects in the field of microcontrollers, FPGA, IOT, etc. Most of my projects are accoupled by its own blog.
+![daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniboi16&show_icons=true&theme=radical)
+
 
 ## Highlights 
 
